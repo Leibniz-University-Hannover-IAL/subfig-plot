@@ -1,0 +1,54 @@
+subfig_plot.m
+
+----------------------------
+ver 1.0
+ported for official use and the LICENCE has been added
+
+----------------------------
+ver 0.10
+added support for logarithmic x axis and logarithmic y axis
+
+----------------------------
+ver 0.09
+new plottype 'bar' was added
+
+----------------------------
+ver 0.08
+added support for the latex interpreter also in axes ticks and legend
+
+----------------------------
+ver 0.07
+new plottype 'stairs' was added
+
+----------------------------
+ver 0.06
+support for font embedding with new MikTex was added 
+
+----------------------------
+ver 0.05
+the vertical option for global legend was added
+
+----------------------------
+ver 0.04
+axes are now really black (default matlab color is very dark grey)
+the multiplier for axes labels was removed (default by matlab was 1.1)
+
+----------------------------
+ver 0.03
+a new option 'text' was added for plottype, plotting texts at defined positions
+
+----------------------------
+ver 0.02
+default line width and marker size can be specified now
+marker size for each line can be specified
+fixed color settings for marker (the color option sets the edge color instead of face color)
+
+----------------------------
+ver 0.01
+updated papersize settings (did not work properly with large figures)
+an option for decimal comma was added
+an option for embedded fonts with PDF was added
+
+----------------------------
+ver 0.0
+intial version
